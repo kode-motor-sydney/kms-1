@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kode-motor-sydney.github.io/kms-1/sitemap.xml
